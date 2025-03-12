@@ -157,7 +157,7 @@ Once booted:
 
 #### Step 1: Obtain HAnalytics Backup Image
 
-- Access the prepared backup image from the following link:
+- Access the prepared backup image from the following link (google drive was used due to github storage limitations, will resort to lts github in the future):
 [HAnalytics Backup Image (Google Drive)](https://drive.google.com/drive/folders/1H0lJDAoUBGu3_f2oSRdEfc_EBBaspHtf)
 
 #### Step 2: Restoring from Backup in Home Assistant
