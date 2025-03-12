@@ -1,4 +1,4 @@
-# HAnalytics Documentation
+# HAnalytics
 
 ## Overview
 HAnalytics is an advanced plugin developed specifically for Home Assistant, the leading open-source platform for smart home management. It expands Home Assistant's core functionality by integrating robust benchmarking and performance analytics. The primary purpose is to allow homeowners, developers, and system integrators to assess IoT device performance comprehensively, guiding data-driven decisions for selecting the most effective smart home equipment.
