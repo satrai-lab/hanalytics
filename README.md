@@ -517,6 +517,11 @@ If you have any questions, feedback, or require support, feel free to reach out.
 
 > ⚠ **Note:** We understand that the current version of this documentation might be confusing in some areas. If anything is unclear or if you need additional guidance, please don't hesitate to contact us.
 
+✍️ Authors:
+- Main Author: Fotis Fouskas
+- Contributors: Nikolaos Papadakis, Krish Chatterjie 
+
 ### 📧 Email Support
 For general inquiries and technical support, contact us at:  
-**[nikolaos.papadakis@telecom-sudparis.eu](mailto:nikolaos.papadakis@telecom-sudparis.eu)**
+- **[nikolaos.papadakis@telecom-sudparis.eu](mailto:nikolaos.papadakis@telecom-sudparis.eu)**
+- **[fotios.fouskas@gmail.com](mailto:fotios.fouskas@gmail.com)**
